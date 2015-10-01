@@ -1,6 +1,0 @@
-В краце делатm так:
-1) Разблокировать root
-2) поставить XCode из AppStore
-3) поставить MacPort
-4) через терминал при помощи MacPort (под root) установить пакет sshfs (# port install sshfs)
-5) монтирование выполняется такой коммандой(набирать в терминале): sshfs user@serverhost.com: ~/local_dir -oaute_cashe,reconnect,volname=serverhost.com
